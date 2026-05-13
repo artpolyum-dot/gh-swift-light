@@ -1,4 +1,5 @@
 
+
 Version: 1.0.0
 
 Light placement in Cinema 4D is no longer a tedious chore. GH Swift Light introduces a raycasting-based, intuitive click-and-drag placement system along with an integrated control suite.  
@@ -9,6 +10,10 @@ Not only does it allow for sophisticated lighting that follows surfaces with pre
 
 Compatible with Cinema 4D 2025 (Standard, Redshift, Octane)  
 (Cinema 4D 2025,2024 호환: 스탠다드, 레드시프트, 옥테인 지원)
+
+
+**Please be advised that this plugin was developed using Codex, Gemini (Antigravity), and Claude Code.**
+**(해당 플러그인은 Codex, Gemini(Antigravity), 그리고 Claude Code를 활용해 개발되었음을 안내드립니다.)**
 
 # Core Workflow (핵심 사용 흐름)
 
