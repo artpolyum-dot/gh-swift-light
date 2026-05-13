@@ -1,3 +1,4 @@
+
 Version: 1.0.0
 
 Light placement in Cinema 4D is no longer a tedious chore. GH Swift Light introduces a raycasting-based, intuitive click-and-drag placement system along with an integrated control suite.
@@ -10,6 +11,7 @@ Not only does it allow for sophisticated lighting that follows surfaces with pre
 
 Compatible with Cinema 4D 2025 (Standard, Redshift, Octane)
 (Cinema 4D 2025 호환: 스탠다드, 레드시프트, 옥테인 지원)
+<img width="954" height="339" alt="20260507-1243-22 3491555 (2)" src="https://github.com/user-attachments/assets/598fa711-87b8-46fb-9d62-b626c42eaeb6" />
 
 
 
@@ -47,7 +49,7 @@ Manage multiple lights simultaneously using the Light Mixer or Light List.
 Placement Modes (배치 모드)
 
 Direct
-<img width="1908" height="678" alt="image" src="https://github.com/user-attachments/assets/409d7945-ba84-4bbb-9a41-dd09d006ac71" />
+<img width="954" height="339" alt="20260507-1243-22 3491555 (2)" src="https://github.com/user-attachments/assets/9e68c796-d346-48e3-9cc3-83179a40bde4" />
 Clicking a surface places the light so it points directly at that spot. This is the most fundamental placement method.
 (표면을 클릭하면 라이트가 그 지점을 향하도록 배치됩니다. 가장 기본적인 라이트 배치 방식입니다.)
 
